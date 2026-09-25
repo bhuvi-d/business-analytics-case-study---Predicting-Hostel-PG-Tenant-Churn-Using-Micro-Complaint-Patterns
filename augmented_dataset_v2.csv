@@ -1,0 +1,481 @@
+accom_type,stay_duration,rent_range,city,gender,freq_wifi,freq_maintenance,freq_food,freq_noise,freq_cleanliness,freq_water,freq_security,freq_comm,report_behavior,renewal_likelihood,nps_score,non_renewal_reason,is_synthetic,churn_label,group_id,total_complaint_burden,silent_tolerance_ratio,stay_dur_enc,rent_range_enc,gender_enc,accom_Co-living,accom_Hostel,accom_PG
+PG,6-12 months,"₹8,000–12,000",Bangalore ,Male,1,1,4,0,2,3,0,2,0,3,9,,False,0,0,13,1.0,2,2,0,0,0,1
+Hostel,3-6 months,">₹18,000",Bangalore,Male,0,0,2,1,0,0,0,0,0,5,8,,False,0,1,3,1.0,1,2,0,0,1,0
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,2,3,2,2,2,3,0,3,7,no,False,0,2,20,1.0,1,2,0,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,4,3,3,3,2,3,2,3,0,4,4,no,False,0,3,23,1.0,2,2,1,1,0,0
+PG,more than 12 months,"₹5,000–8,000",Bangalore,Male,2,2,4,2,2,2,2,2,0,3,6,,False,0,4,18,1.0,1,2,0,0,0,1
+PG,3 months,"₹12,000–18,000",Coimbatore ,Female,4,1,4,2,3,1,1,1,0,3,6,okay except food ,False,0,5,17,1.0,1,2,1,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,2,0,0,0,4,7,,False,0,6,16,1.0,1,2,1,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,1,1,1,0,2,5,,False,1,7,15,1.0,2,2,1,0,0,1
+Hostel,more than 12 months,">₹18,000",Banagalore,Female,1,1,2,1,1,1,0,1,0,4,8,,False,0,8,8,1.0,1,2,1,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,0,2,0,2,4,not good,False,1,9,20,1.0,2,2,0,0,1,0
+PG,3-6 months,"₹8,000–12,000",Coimbatore,Male,3,1,1,1,1,1,1,1,0,4,6,,False,0,10,10,1.0,1,2,0,0,0,1
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,1,1,1,0,2,2,,False,1,11,14,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,2,1,2,2,2,1,1,1,0,3,2,,False,0,12,12,1.0,1,2,0,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad ,Female,2,1,2,1,3,2,0,0,0,3,6,,False,0,13,11,1.0,2,2,1,0,0,1
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,2,0,4,8,,False,0,14,10,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹5,000–8,000",Coimbatore ,Female,2,2,2,0,2,1,0,0,0,4,7,,False,0,15,9,1.0,1,2,1,0,1,0
+PG,6-12 months,"₹12,000–18,000",Chennai,Female,2,2,2,1,2,2,0,1,0,3,6,,False,0,16,12,1.0,2,2,1,0,0,1
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,1,2,2,1,1,0,3,3,,False,0,17,12,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,2,1,1,2,0,2,5,,False,1,18,13,1.0,2,2,1,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,1,1,2,1,2,1,0,1,1,,False,1,19,11,1.0,1,2,1,1,0,0
+Hostel,6-12 months,"₹12,000–18,000",Blr ,Female,1,1,3,1,1,1,1,1,0,5,8,,False,0,20,10,1.0,2,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,2,1,1,2,0,1,1,,False,1,21,10,1.0,1,2,0,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,2,1,2,1,1,0,3,4,,False,0,22,13,1.0,2,2,1,1,0,0
+PG,6-12 months,"₹8,000–12,000",Mysore ,Female,0,0,2,0,2,2,0,0,0,4,8,,False,0,23,6,1.0,2,2,1,0,0,1
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,2,2,2,2,2,0,2,4,"Food , wifi all bad ",False,1,24,19,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,0,2,2,,False,1,25,17,1.0,1,2,1,0,1,0
+PG,6-12 months,"₹8,000–12,000",Mysore,Female,2,2,2,2,2,2,2,2,0,4,8,,False,0,26,16,1.0,2,2,1,0,0,1
+Hostel,6-12 months,"₹12,000–18,000",Bangalore ,Male,3,2,3,1,1,1,1,1,0,4,6,,False,0,27,13,1.0,2,2,0,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,2,2,1,1,1,1,0,4,9,,False,0,28,10,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Hyderabad ,Female,1,2,2,0,2,2,0,0,0,4,7,,False,0,29,9,1.0,2,2,1,0,1,0
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,1,1,1,1,1,1,1,1,0,4,10,,False,0,30,8,1.0,1,2,1,1,0,0
+Co-living,6-12 months,"₹12,000–18,000",Mysore ,Female,1,1,2,2,1,2,1,1,0,3,3,,False,0,31,11,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹12,000–18,000",Mysore ,Female,3,2,2,1,1,1,1,1,0,4,8,,False,0,32,12,1.0,2,2,1,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,0,0,0,0,0,0,4,6,,False,0,33,6,1.0,1,2,1,0,0,1
+Co-living,3 months,"₹5,000–8,000",Vijayawada ,Male,2,2,4,1,2,2,0,0,0,3,5,,False,0,34,13,1.0,1,2,0,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,2,2,2,2,1,1,1,0,4,9,,False,0,35,14,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,2,1,2,1,1,2,1,0,4,3,,False,0,36,12,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,1,2,1,4,3,3,3,0,3,7,,False,0,37,19,1.0,2,2,0,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,3,4,4,0,1,4,,False,1,38,23,1.0,1,2,2,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,False,1,39,19,1.0,2,2,1,1,0,0
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,1,0,4,4,1,1,0,0,0,5,10,,False,0,40,11,1.0,1,2,2,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,2,1,2,0,2,2,0,0,0,3,6,,False,0,41,9,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Prefer not to say,2,4,4,2,4,4,3,4,0,5,7,,False,0,42,27,1.0,1,2,2,0,1,0
+Hostel,6-12 months,"₹5,000–8,000",Bangalore ,Male,0,3,3,4,3,4,3,4,0,5,2,,False,0,43,24,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,3,1,2,3,3,1,1,2,0,1,4,,True,1,18,16,1.0,2,2,1,0,1,0
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,1,0,4,4,2,1,0,0,0,5,10,,True,0,40,12,1.0,1,2,2,0,1,0
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,0,1,2,1,2,0,0,1,0,4,10,,True,0,30,7,1.0,1,2,1,1,0,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,2,2,2,2,3,0,2,4,"Food , wifi all bad ",True,1,24,20,1.0,1,2,0,0,0,1
+Hostel,more than 12 months,">₹18,000",Banagalore,Female,2,1,2,1,2,1,0,1,0,3,7,,True,0,8,10,1.0,1,2,1,0,1,0
+Hostel,more than 12 months,">₹18,000",Banagalore,Female,1,1,2,1,1,2,0,1,0,4,8,,True,0,8,9,1.0,1,2,1,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,4,3,3,3,2,3,2,4,0,4,4,no,True,0,3,24,1.0,2,2,1,1,0,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,3,3,4,0,1,4,,True,1,38,22,1.0,1,2,2,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,2,2,2,3,3,0,1,3,"Food , wifi all bad ",True,1,24,21,1.0,1,2,0,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,1,2,1,1,1,1,0,4,9,,True,0,28,9,1.0,1,2,1,0,1,0
+Hostel,3-6 months,">₹18,000",Bangalore,Male,0,0,3,1,0,0,0,0,0,5,8,,True,0,1,4,1.0,1,2,0,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,2,1,2,0,1,2,0,0,0,3,6,,True,0,41,8,1.0,1,2,0,0,0,1
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,1,1,1,4,3,3,3,0,3,7,,True,0,37,18,1.0,2,2,0,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,1,4,2,0,2,0,2,4,not good,True,1,9,19,1.0,2,2,0,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,3,3,4,2,4,2,0,2,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,1,0,2,0,2,4,not good,True,1,9,19,1.0,2,2,0,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad ,Female,2,1,2,1,3,2,1,0,0,3,6,,True,0,13,12,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,0,1,2,2,1,1,2,0,1,1,,True,1,21,9,1.0,1,2,0,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,3,0,1,2,0,1,1,0,2,2,,True,1,19,9,1.0,1,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,2,1,2,3,2,1,2,1,0,2,1,,True,1,12,14,1.0,1,2,0,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,4,3,3,2,2,2,2,2,0,2,4,"Food , wifi all bad ",True,1,24,20,1.0,1,2,0,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,2,3,1,1,1,0,2,5,,True,1,7,16,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,1,1,2,2,2,1,2,1,0,3,2,,True,0,12,12,1.0,1,2,0,0,1,0
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,1,2,1,2,2,1,0,0,4,4,,True,0,17,10,1.0,1,2,0,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,1,0,2,1,2,1,0,1,1,,True,1,19,10,1.0,1,2,1,1,0,0
+Co-living,3 months,"₹5,000–8,000",Vijayawada ,Male,2,2,4,0,1,2,0,0,0,4,6,,True,0,34,11,1.0,1,2,0,1,0,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,0,2,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,2,1,1,2,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,2,2,2,1,2,0,2,4,"Food , wifi all bad ",True,1,24,18,1.0,1,2,0,0,0,1
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,4,2,3,3,3,3,1,4,0,4,4,no,True,0,3,23,1.0,2,2,1,1,0,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,2,2,2,2,2,0,2,4,"Food , wifi all bad ",True,1,24,19,1.0,1,2,0,0,0,1
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,1,4,2,0,3,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+PG,more than 12 months,"₹5,000–8,000",Bangalore,Male,2,2,3,2,2,1,1,2,0,4,7,,True,0,4,15,1.0,1,2,0,0,0,1
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,1,0,4,4,1,1,0,0,0,5,10,,True,0,40,11,1.0,1,2,2,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,2,1,2,0,2,2,0,0,0,3,6,,True,0,41,9,1.0,1,2,0,0,0,1
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,2,2,1,2,1,1,1,0,4,9,,True,0,35,13,1.0,2,2,0,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad ,Female,1,1,2,1,4,2,0,0,0,3,6,,True,0,13,11,1.0,2,2,1,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,1,4,2,0,0,0,4,7,,True,0,6,15,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Bangalore ,Male,3,2,3,1,1,1,1,1,0,4,6,,True,0,27,13,1.0,2,2,0,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,1,0,2,1,2,2,0,1,1,,True,1,19,11,1.0,1,2,1,1,0,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,0,1,1,0,2,5,,True,1,7,14,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,1,1,1,1,0,2,2,,True,1,21,8,1.0,1,2,0,0,1,0
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,2,3,3,2,2,4,0,2,6,no,True,1,2,22,1.0,1,2,0,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,2,3,3,1,1,1,1,1,1,2,2,,True,1,11,13,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,3,4,4,0,2,2,,True,1,25,16,1.0,1,2,1,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad ,Female,3,1,2,1,3,2,1,0,0,2,5,,True,1,13,13,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,1,1,1,2,2,1,1,1,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,2,1,2,2,0,0,3,4,,True,0,22,13,1.0,2,2,1,1,0,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,3,4,2,4,3,0,2,0,1,3,not good,True,1,9,22,1.0,2,2,0,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,2,1,1,0,2,2,0,0,0,3,6,,True,0,41,8,1.0,1,2,0,0,0,1
+PG,more than 12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,1,0,0,1,0,0,3,5,,True,0,33,8,1.0,1,2,1,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,2,3,0,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,3,2,2,2,2,0,2,4,"Food , wifi all bad ",True,1,24,20,1.0,1,2,0,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,2,0,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,3,0,0,0,4,7,,True,0,6,17,1.0,1,2,1,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,0,2,1,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,3,3,4,3,2,3,2,3,0,4,4,no,True,0,3,23,1.0,2,2,1,1,0,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,3,0,4,8,,True,0,14,11,1.0,1,2,0,0,0,1
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,2,2,2,2,1,0,3,0,2,5,,True,1,18,14,1.0,2,2,1,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,1,1,1,0,2,2,,True,1,11,14,1.0,1,2,1,0,0,1
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,0,2,0,4,3,3,3,0,4,8,,True,0,37,17,1.0,2,2,0,0,1,0
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,1,2,2,1,1,0,3,3,,True,0,17,12,1.0,1,2,0,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,4,3,1,1,1,1,2,0,1,1,,True,1,11,16,1.0,1,2,1,0,0,1
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,2,1,2,1,1,0,3,4,,True,0,22,13,1.0,2,2,1,1,0,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,4,2,3,0,4,1,1,1,1,2,5,,True,1,7,16,1.0,2,2,1,0,0,1
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,2,2,2,2,1,1,1,1,4,9,,True,0,35,14,1.0,2,2,0,0,1,0
+PG,3 months,"₹12,000–18,000",Coimbatore ,Female,4,2,4,2,3,1,1,1,0,3,6,okay except food ,True,0,5,18,1.0,1,2,1,0,0,1
+Hostel,6-12 months,"₹5,000–8,000",Bangalore ,Male,0,3,3,4,3,4,3,4,0,5,2,,True,0,43,24,1.0,2,2,0,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Bangalore ,Female,2,1,2,0,0,0,1,1,0,4,6,,True,0,33,7,1.0,1,2,1,0,0,1
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,0,2,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+PG,6-12 months,"₹8,000–12,000",Bangalore ,Male,1,1,4,0,2,3,0,2,0,3,9,,True,0,0,13,1.0,2,2,0,0,0,1
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,2,1,2,1,1,2,2,0,4,3,,True,0,36,13,1.0,2,2,0,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,2,2,1,1,1,0,0,4,9,,True,0,28,9,1.0,1,2,1,0,1,0
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,1,1,1,1,1,0,1,1,0,4,10,,True,0,30,7,1.0,1,2,1,1,0,0
+PG,more than 12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,0,0,0,0,0,0,4,6,,True,0,33,6,1.0,1,2,1,0,0,1
+PG,3 months,"₹12,000–18,000",Coimbatore ,Female,4,1,4,3,3,1,2,1,0,2,5,okay except food ,True,1,5,19,1.0,1,2,1,0,0,1
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,1,2,2,1,1,0,3,3,,True,0,17,12,1.0,1,2,0,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,1,1,1,0,2,5,,True,1,7,15,1.0,2,2,1,0,0,1
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,1,2,3,3,3,2,4,4,0,1,4,,True,1,38,22,1.0,1,2,2,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,1,3,4,4,4,0,2,2,,True,1,25,18,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹5,000–8,000",Coimbatore ,Female,2,2,2,0,2,1,0,0,0,4,7,,True,0,15,9,1.0,1,2,1,0,1,0
+PG,more than 12 months,"₹5,000–8,000",Bangalore,Male,2,1,4,2,3,2,2,3,0,3,6,,True,0,4,19,1.0,1,2,0,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad ,Female,2,1,3,1,3,2,0,0,0,3,6,,True,0,13,12,1.0,2,2,1,0,0,1
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,3,1,4,0,2,0,0,2,0,3,7,,True,0,14,12,1.0,1,2,0,0,0,1
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,1,1,0,1,1,1,2,1,0,4,10,,True,0,30,8,1.0,1,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,0,0,3,4,4,4,0,2,2,,True,1,25,16,1.0,1,2,1,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,4,4,4,0,1,4,,True,1,38,24,1.0,1,2,2,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Blr ,Female,1,1,3,1,1,1,1,1,0,5,8,,True,0,20,10,1.0,2,2,1,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,2,3,3,1,3,1,0,0,0,3,6,,True,0,7,13,1.0,2,2,1,0,0,1
+Hostel,6-12 months,"₹8,000–12,000",Hyderabad ,Female,1,2,2,1,2,2,0,0,0,4,7,,True,0,29,10,1.0,2,2,1,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Mysore ,Female,4,3,2,1,1,1,1,1,0,3,7,,True,0,32,14,1.0,2,2,1,0,1,0
+PG,6-12 months,"₹8,000–12,000",Mysore ,Female,1,0,1,0,2,1,0,0,0,4,8,,True,0,23,5,1.0,2,2,1,0,0,1
+PG,more than 12 months,"₹12,000–18,000",Bangalore ,Female,2,3,2,0,0,0,1,1,0,3,5,,True,0,33,9,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,2,0,0,2,0,2,2,,True,1,21,8,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,1,1,2,2,2,1,1,2,0,1,0,,True,1,21,12,1.0,1,2,0,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,3,1,1,2,1,2,1,0,1,1,,True,1,19,12,1.0,1,2,1,1,0,0
+Hostel,3-6 months,">₹18,000",Bangalore,Male,1,1,2,0,0,0,0,0,0,5,8,,True,0,1,4,1.0,1,2,0,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,1,1,1,0,2,5,,True,1,7,15,1.0,2,2,1,0,0,1
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,3,4,2,2,2,3,0,2,6,no,True,1,2,22,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,4,4,4,4,0,2,2,,True,1,25,18,1.0,1,2,1,0,1,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,2,0,4,8,,True,0,14,10,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,0,2,2,1,1,2,0,1,1,,True,1,21,9,1.0,1,2,0,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,1,0,1,0,2,2,,True,1,11,13,1.0,1,2,1,0,0,1
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,2,1,2,2,1,1,2,0,2,5,,True,1,18,13,1.0,2,2,1,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Mysore ,Female,3,1,1,2,1,1,1,1,0,4,8,,True,0,32,11,1.0,2,2,1,0,1,0
+PG,3-6 months,"₹8,000–12,000",Coimbatore,Male,3,1,1,0,1,2,1,1,1,4,6,,True,0,10,10,1.0,1,2,0,0,0,1
+PG,3 months,"₹12,000–18,000",Coimbatore ,Female,3,1,4,2,3,2,0,1,0,3,6,okay except food ,True,0,5,16,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,3,1,2,2,2,1,1,1,0,3,2,,True,0,12,13,1.0,1,2,0,0,1,0
+Hostel,more than 12 months,">₹18,000",Banagalore,Female,2,1,2,1,1,1,0,1,0,4,8,,True,0,8,9,1.0,1,2,1,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,3,2,2,2,1,1,1,0,4,9,,True,0,35,15,1.0,2,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,1,3,4,4,4,0,2,2,,True,1,25,18,1.0,1,2,1,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,3,4,4,0,1,4,,True,1,38,23,1.0,1,2,2,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,1,2,3,2,1,1,1,0,4,9,,True,0,35,14,1.0,2,2,0,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,0,2,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,2,1,2,2,1,1,3,4,,True,0,22,14,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,2,2,2,3,1,1,0,0,4,9,,True,0,35,14,1.0,2,2,0,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,1,0,4,8,,True,0,14,9,1.0,1,2,0,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,2,1,1,0,2,5,,True,1,7,16,1.0,2,2,1,0,0,1
+PG,3-6 months,"₹8,000–12,000",Coimbatore,Male,3,1,1,1,1,1,1,1,0,4,6,,True,0,10,10,1.0,1,2,0,0,0,1
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,1,1,2,1,1,1,0,1,1,,True,1,19,10,1.0,1,2,1,1,0,0
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,1,1,2,1,0,3,1,0,4,3,,True,0,36,11,1.0,2,2,0,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,3,3,4,0,1,4,,True,1,38,22,1.0,1,2,2,0,1,0
+PG,6-12 months,"₹8,000–12,000",Bangalore ,Male,1,1,4,0,1,2,0,2,0,4,10,,True,0,0,11,1.0,2,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,1,0,1,2,2,1,1,3,0,1,1,,True,1,21,11,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,3,1,2,2,2,1,1,2,0,2,5,,True,1,18,14,1.0,2,2,1,0,1,0
+PG,3-6 months,"₹8,000–12,000",Coimbatore,Male,3,1,1,1,1,1,2,1,0,4,6,,True,0,10,11,1.0,1,2,0,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,2,1,1,1,0,2,5,,True,1,7,14,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹5,000–8,000",Coimbatore ,Female,2,2,2,0,1,1,0,0,0,4,7,,True,0,15,8,1.0,1,2,1,0,1,0
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,1,0,3,4,0,1,0,0,1,5,10,,True,0,40,9,1.0,1,2,2,0,1,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,2,0,4,8,,True,0,14,10,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,2,1,1,2,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,2,2,1,1,1,2,0,4,9,,True,0,28,11,1.0,1,2,1,0,1,0
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,1,2,2,0,1,0,3,3,,True,0,17,11,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Prefer not to say,2,4,4,2,4,4,2,4,1,5,7,,True,0,42,26,1.0,1,2,2,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,3,0,2,0,2,2,0,0,0,3,6,,True,0,41,9,1.0,1,2,0,0,0,1
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,2,3,3,1,1,0,2,1,0,2,2,,True,1,11,13,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,1,1,2,2,2,1,0,1,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad ,Female,1,1,3,1,3,2,0,0,0,3,6,,True,0,13,11,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,2,1,1,2,2,1,1,1,0,3,2,,True,0,12,11,1.0,1,2,0,0,1,0
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,3,3,2,3,2,3,0,2,6,no,True,1,2,22,1.0,1,2,0,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,4,2,2,2,2,2,0,2,4,"Food , wifi all bad ",True,1,24,20,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,1,2,0,1,2,0,2,2,,True,1,21,8,1.0,1,2,0,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,4,3,3,3,2,3,2,3,0,4,4,no,True,0,3,23,1.0,2,2,1,1,0,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,2,1,1,1,1,0,2,2,,True,1,11,15,1.0,1,2,1,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,2,2,3,4,3,3,1,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,4,3,4,2,2,1,1,1,0,1,1,,True,1,11,18,1.0,1,2,1,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,0,1,1,0,2,5,,True,1,7,14,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,1,2,1,2,2,1,1,2,0,1,0,,True,1,21,12,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"₹5,000–8,000",Bangalore ,Male,0,3,3,4,4,4,3,4,0,5,2,,True,0,43,25,1.0,2,2,0,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,0,1,1,0,2,2,,True,1,11,13,1.0,1,2,1,0,0,1
+PG,6-12 months,"₹8,000–12,000",Mysore,Female,2,2,2,2,2,2,1,2,0,4,8,,True,0,26,15,1.0,2,2,1,0,0,1
+Hostel,6-12 months,"₹12,000–18,000",Mysore ,Female,3,2,2,1,1,1,1,1,0,4,8,,True,0,32,12,1.0,2,2,1,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,1,1,1,1,2,2,,True,1,11,14,1.0,1,2,1,0,0,1
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,0,0,1,1,1,1,1,1,0,5,10,,True,0,30,6,1.0,1,2,1,1,0,0
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,1,2,2,1,1,0,3,3,,True,0,17,12,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,2,1,0,3,3,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,3,2,2,2,1,2,0,1,0,3,4,,True,0,22,13,1.0,2,2,1,1,0,0
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,2,0,0,0,4,7,,True,0,6,16,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,3,1,2,1,3,3,3,3,1,3,7,,True,0,37,19,1.0,2,2,0,0,1,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,2,0,4,8,,True,0,14,10,1.0,1,2,0,0,0,1
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,3,4,2,4,2,0,2,0,2,4,not good,True,1,9,21,1.0,2,2,0,0,1,0
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,1,3,2,2,2,3,0,3,7,no,True,0,2,19,1.0,1,2,0,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,1,2,2,2,2,0,2,4,"Food , wifi all bad ",True,1,24,18,1.0,1,2,0,0,0,1
+PG,6-12 months,"₹8,000–12,000",Mysore,Female,2,2,2,3,3,2,2,2,0,3,7,,True,0,26,18,1.0,2,2,1,0,0,1
+Hostel,3-6 months,">₹18,000",Bangalore,Male,0,0,2,1,0,0,0,0,0,5,8,,True,0,1,3,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,2,1,2,2,1,1,1,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+PG,3-6 months,"₹8,000–12,000",Coimbatore,Male,2,1,1,1,2,2,1,1,0,4,6,,True,0,10,11,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,1,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,3,2,4,2,0,3,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Bangalore ,Male,3,2,3,2,1,1,1,1,0,4,6,,True,0,27,14,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,2,1,1,1,0,2,5,,True,1,18,12,1.0,2,2,1,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,3,3,3,1,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,4,1,3,0,1,1,0,2,5,,True,1,7,15,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹5,000–8,000",Coimbatore ,Female,2,2,2,0,3,1,0,0,1,4,7,,True,0,15,10,1.0,1,2,1,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,0,3,1,1,1,0,2,5,,True,1,7,14,1.0,2,2,1,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,4,4,0,1,0,,True,1,39,21,1.0,2,2,1,1,0,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,1,3,3,4,4,0,1,4,,True,1,38,22,1.0,1,2,2,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,1,1,1,0,2,2,,True,1,11,14,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,0,1,0,3,4,4,4,0,2,2,,True,1,25,16,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,1,2,1,2,1,0,2,1,1,5,4,,True,0,36,10,1.0,2,2,0,0,1,0
+PG,6-12 months,"₹8,000–12,000",Mysore ,Female,0,0,2,0,2,2,0,0,0,4,8,,True,0,23,6,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,0,3,2,1,1,2,1,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,1,1,1,0,2,2,,True,1,11,14,1.0,1,2,1,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,2,0,0,0,4,7,,True,0,6,16,1.0,1,2,1,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,0,1,2,4,4,3,3,0,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,1,4,4,3,4,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹5,000–8,000",Coimbatore ,Female,3,2,2,0,2,1,0,0,0,4,7,,True,0,15,10,1.0,1,2,1,0,1,0
+PG,6-12 months,"₹12,000–18,000",Chennai,Female,2,2,2,0,2,2,0,1,0,3,6,,True,0,16,11,1.0,2,2,1,0,0,1
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,1,0,1,2,1,1,1,1,0,4,10,,True,0,30,8,1.0,1,2,1,1,0,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,3,4,4,3,3,0,1,1,,True,1,39,20,1.0,2,2,1,1,0,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,1,3,2,2,3,4,4,0,2,5,,True,1,38,21,1.0,1,2,2,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,0,1,0,0,0,0,4,6,,True,0,33,7,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,2,0,3,4,4,4,0,2,2,,True,1,25,18,1.0,1,2,1,0,1,0
+PG,3 months,"₹12,000–18,000",Coimbatore ,Female,4,2,4,2,2,0,1,1,0,3,6,okay except food ,True,0,5,16,1.0,1,2,1,0,0,1
+Hostel,more than 12 months,">₹18,000",Banagalore,Female,1,1,2,1,1,1,0,1,0,4,8,,True,0,8,8,1.0,1,2,1,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,2,0,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,2,2,2,2,3,0,2,4,"Food , wifi all bad ",True,1,24,20,1.0,1,2,0,0,0,1
+PG,6-12 months,"₹8,000–12,000",Bangalore ,Male,1,1,4,0,2,3,0,2,0,3,9,,True,0,0,13,1.0,2,2,0,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,3,0,1,0,3,6,,True,0,6,18,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,3,0,2,2,,True,1,25,16,1.0,1,2,1,0,1,0
+PG,6-12 months,"₹8,000–12,000",Bangalore ,Male,0,1,4,0,2,3,0,1,0,4,10,,True,0,0,11,1.0,2,2,0,0,0,1
+Hostel,more than 12 months,">₹18,000",Banagalore,Female,1,1,2,1,1,1,0,1,0,4,8,,True,0,8,8,1.0,1,2,1,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,3,2,3,1,3,1,1,0,2,3,,True,1,22,16,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹12,000–18,000",Bangalore ,Male,3,2,3,0,1,1,2,2,0,4,6,,True,0,27,14,1.0,2,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+PG,3-6 months,"₹8,000–12,000",Coimbatore,Male,3,1,0,1,2,1,0,2,0,4,6,,True,0,10,10,1.0,1,2,0,0,0,1
+Hostel,6-12 months,"₹8,000–12,000",Hyderabad ,Female,1,2,2,1,1,2,0,0,0,4,7,,True,0,29,9,1.0,2,2,1,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,1,1,1,0,2,2,,True,1,11,14,1.0,1,2,1,0,0,1
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,2,0,4,8,,True,0,14,10,1.0,1,2,0,0,0,1
+Co-living,6-12 months,"₹12,000–18,000",Mysore ,Female,1,1,1,2,0,2,1,0,1,4,4,,True,0,31,8,1.0,2,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,1,3,4,4,4,0,2,2,,True,1,25,18,1.0,1,2,1,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,2,3,4,4,0,1,4,,True,1,38,22,1.0,1,2,2,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,2,2,0,2,4,4,4,0,2,2,,True,1,25,18,1.0,1,2,1,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,2,3,2,2,2,2,2,0,2,4,"Food , wifi all bad ",True,1,24,18,1.0,1,2,0,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,1,0,0,0,4,7,,True,0,6,15,1.0,1,2,1,0,1,0
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,1,2,3,1,1,0,3,3,,True,0,17,13,1.0,1,2,0,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,0,1,1,1,1,0,2,2,,True,1,11,13,1.0,1,2,1,0,0,1
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,1,1,1,2,1,0,2,2,,True,1,11,15,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Prefer not to say,2,4,4,2,4,4,2,4,0,5,7,,True,0,42,26,1.0,1,2,2,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,1,1,1,2,0,2,5,,True,1,18,12,1.0,2,2,1,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Co-living,3 months,"₹5,000–8,000",Vijayawada ,Male,2,2,4,1,3,2,0,0,0,3,5,,True,0,34,14,1.0,1,2,0,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,2,1,2,2,1,0,2,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,2,3,2,2,2,0,2,4,"Food , wifi all bad ",True,1,24,20,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,1,1,1,2,1,1,1,2,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,3,2,4,2,0,3,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Hyderabad ,Female,0,2,2,1,2,2,0,1,0,4,7,,True,0,29,10,1.0,2,2,1,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,4,2,1,1,1,1,0,1,1,,True,1,11,16,1.0,1,2,1,0,0,1
+Hostel,3-6 months,">₹18,000",Bangalore,Male,0,0,2,1,0,0,0,0,0,5,8,,True,0,1,3,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,0,0,3,4,4,4,1,2,2,,True,1,25,16,1.0,1,2,1,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,0,1,0,2,4,not good,True,1,9,19,1.0,2,2,0,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,1,4,4,3,3,1,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,1,1,4,4,2,1,1,0,0,4,9,,True,0,40,14,1.0,1,2,2,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,0,1,2,4,4,3,3,0,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,0,2,2,1,1,0,3,3,,True,0,17,11,1.0,1,2,0,0,1,0
+Hostel,3-6 months,">₹18,000",Bangalore,Male,1,0,2,1,0,0,0,0,0,5,8,,True,0,1,4,1.0,1,2,0,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,0,1,1,3,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,1,2,2,1,2,1,0,1,1,,True,1,19,12,1.0,1,2,1,1,0,0
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,2,1,2,0,2,2,0,0,0,3,6,,True,0,41,9,1.0,1,2,0,0,0,1
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,2,1,2,0,2,2,0,0,0,3,6,,True,0,41,9,1.0,1,2,0,0,0,1
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,3,1,3,2,3,4,4,4,1,1,4,,True,1,38,24,1.0,1,2,2,0,1,0
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,1,1,2,2,2,1,2,1,0,3,2,,True,0,12,12,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,2,1,1,1,1,2,5,,True,1,18,12,1.0,2,2,1,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,2,2,4,3,4,4,0,1,4,,True,1,38,23,1.0,1,2,2,0,1,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,1,4,0,2,0,1,2,0,3,7,,True,0,14,12,1.0,1,2,0,0,0,1
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,0,2,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+PG,6-12 months,"₹8,000–12,000",Mysore ,Female,0,1,2,0,2,2,0,0,1,4,8,,True,0,23,7,1.0,2,2,1,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,1,4,4,3,2,0,2,2,,True,1,39,17,1.0,2,2,1,1,0,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,2,2,1,1,1,1,0,4,9,,True,0,28,10,1.0,1,2,1,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,4,2,3,2,2,1,2,0,2,4,"Food , wifi all bad ",True,1,24,19,1.0,1,2,0,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,3,4,2,0,0,0,4,7,,True,0,6,17,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,1,0,1,0,4,4,4,4,0,2,2,,True,1,25,18,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"₹5,000–8,000",Bangalore ,Male,0,3,3,4,3,4,3,4,0,5,2,,True,0,43,24,1.0,2,2,0,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,4,1,3,1,1,1,0,2,5,,True,1,7,16,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,1,1,1,2,0,1,1,,True,1,21,9,1.0,1,2,0,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,1,3,2,3,4,4,4,0,1,4,,True,1,38,23,1.0,1,2,2,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",Mysore ,Female,1,1,2,2,1,2,0,1,1,3,3,,True,0,31,10,1.0,2,2,1,1,0,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,1,2,1,1,1,2,0,4,9,,True,0,28,10,1.0,1,2,1,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,2,2,1,1,1,1,0,4,9,,True,0,28,10,1.0,1,2,1,0,1,0
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,1,2,2,0,1,0,3,3,,True,0,17,11,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,3,2,2,2,2,1,1,1,0,2,1,,True,1,12,14,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,2,2,2,2,1,1,1,0,4,9,,True,0,35,14,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,2,2,2,2,1,1,1,1,4,9,,True,0,35,14,1.0,2,2,0,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,3,2,3,2,3,3,4,4,0,1,4,,True,1,38,24,1.0,1,2,2,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,0,1,2,4,4,4,2,0,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,1,1,1,3,2,1,1,2,0,1,0,,True,1,21,12,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,1,1,1,2,2,1,1,2,0,1,1,,True,1,21,11,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,2,2,2,2,1,1,1,0,4,9,,True,0,35,14,1.0,2,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,1,3,4,3,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,2,2,2,1,1,1,0,0,4,9,,True,0,28,10,1.0,1,2,1,0,1,0
+Co-living,3 months,"₹5,000–8,000",Vijayawada ,Male,2,2,4,1,2,2,0,0,0,3,5,,True,0,34,13,1.0,1,2,0,1,0,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,3,4,4,0,1,4,,True,1,38,23,1.0,1,2,2,0,1,0
+Hostel,3 months,"₹5,000–8,000",Coimbatore ,Female,2,2,2,0,2,1,0,0,0,4,7,,True,0,15,9,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,2,2,3,2,1,1,2,0,1,4,,True,1,18,15,1.0,2,2,1,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,3,4,2,0,0,0,4,7,,True,0,6,17,1.0,1,2,1,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,2,2,1,2,2,2,0,3,5,"Food , wifi all bad ",True,0,24,17,1.0,1,2,0,0,0,1
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,2,3,2,2,3,3,1,3,7,no,True,0,2,21,1.0,1,2,0,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,1,1,2,1,2,1,1,1,1,,True,1,19,11,1.0,1,2,1,1,0,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,2,1,3,1,1,0,3,4,,True,0,22,14,1.0,2,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,2,1,2,2,2,0,1,1,0,3,2,,True,0,12,11,1.0,1,2,0,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,4,3,2,2,1,2,2,0,2,4,"Food , wifi all bad ",True,1,24,19,1.0,1,2,0,0,0,1
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,2,3,2,2,2,3,0,3,7,no,True,0,2,20,1.0,1,2,0,0,1,0
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,3,4,2,2,1,3,0,3,7,no,True,0,2,21,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,2,2,2,1,1,2,1,0,4,3,,True,0,36,13,1.0,2,2,0,0,1,0
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,1,1,1,1,1,0,4,4,,True,0,17,10,1.0,1,2,0,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,2,1,1,0,2,5,,True,1,7,16,1.0,2,2,1,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,2,1,0,3,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Bangalore ,Female,1,2,2,0,0,0,0,1,0,4,6,,True,0,33,6,1.0,1,2,1,0,0,1
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,3,2,0,2,1,2,4,not good,True,1,9,19,1.0,2,2,0,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,4,4,4,4,0,2,2,,True,1,25,18,1.0,1,2,1,0,1,0
+PG,3 months,"₹12,000–18,000",Coimbatore ,Female,4,1,4,2,3,1,1,1,0,3,6,okay except food ,True,0,5,17,1.0,1,2,1,0,0,1
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,4,3,3,4,2,3,2,3,0,4,4,no,True,0,3,24,1.0,2,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,2,1,1,2,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,3,1,2,1,2,0,2,3,,True,1,22,15,1.0,2,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,2,1,0,2,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,0,0,2,1,1,1,1,1,0,4,10,,True,0,30,7,1.0,1,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Prefer not to say,2,4,4,2,4,4,3,4,0,5,7,,True,0,42,27,1.0,1,2,2,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,2,1,1,2,0,1,1,,True,1,21,10,1.0,1,2,0,0,1,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,2,0,4,8,,True,0,14,10,1.0,1,2,0,0,0,1
+Co-living,3 months,"₹5,000–8,000",Vijayawada ,Male,2,2,3,1,2,2,0,0,0,3,5,,True,0,34,12,1.0,1,2,0,1,0,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,4,3,3,1,0,2,2,0,0,2,2,,True,1,11,15,1.0,1,2,1,0,0,1
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,0,1,2,1,2,2,0,1,1,,True,1,19,11,1.0,1,2,1,1,0,0
+PG,3 months,"₹12,000–18,000",Coimbatore ,Female,4,1,4,2,3,1,1,1,0,3,6,okay except food ,True,0,5,17,1.0,1,2,1,0,0,1
+Hostel,3-6 months,">₹18,000",Bangalore,Male,0,0,2,1,0,0,0,0,0,5,8,,True,0,1,3,1.0,1,2,0,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,1,1,1,0,2,2,0,0,0,4,7,,True,0,41,7,1.0,1,2,0,0,0,1
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,2,2,2,4,3,3,3,0,2,6,,True,1,37,21,1.0,2,2,0,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,2,1,2,2,1,1,1,1,0,4,9,,True,0,28,11,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,2,2,1,2,0,2,5,,True,1,18,14,1.0,2,2,1,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,3,4,2,4,2,1,2,1,1,3,not good,True,1,9,22,1.0,2,2,0,0,1,0
+Hostel,more than 12 months,">₹18,000",Banagalore,Female,1,1,2,1,1,1,0,1,0,4,8,,True,0,8,8,1.0,1,2,1,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,4,3,3,1,1,1,2,1,0,1,1,,True,1,11,16,1.0,1,2,1,0,0,1
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,3,2,2,1,3,1,1,0,2,3,,True,1,22,15,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Hyderabad ,Female,1,2,2,0,2,2,0,0,0,4,7,,True,0,29,9,1.0,2,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,2,3,3,1,1,1,1,1,0,2,2,,True,1,11,13,1.0,1,2,1,0,0,1
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,1,0,4,4,1,1,0,0,0,5,10,,True,0,40,11,1.0,1,2,2,0,1,0
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,1,1,1,1,1,1,1,1,0,4,10,,True,0,30,8,1.0,1,2,1,1,0,0
+PG,6-12 months,"₹8,000–12,000",Mysore ,Female,0,0,2,0,2,2,0,0,0,4,8,,True,0,23,6,1.0,2,2,1,0,0,1
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,3,2,3,2,2,0,1,3,"Food , wifi all bad ",True,1,24,21,1.0,1,2,0,0,0,1
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,3,1,2,2,2,1,1,2,0,2,5,,True,1,18,14,1.0,2,2,1,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,3,2,0,1,1,1,0,2,2,,True,1,11,14,1.0,1,2,1,0,0,1
+Hostel,3-6 months,"₹8,000–12,000",Coimbatore ,Male,1,2,2,2,2,1,2,1,0,3,3,,True,0,17,13,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Mysore ,Female,3,2,2,1,2,1,1,1,1,4,8,,True,0,32,13,1.0,2,2,1,0,1,0
+PG,6-12 months,"₹8,000–12,000",Bangalore ,Male,1,1,4,0,2,3,0,2,0,3,9,,True,0,0,13,1.0,2,2,0,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,1,1,1,0,2,5,,True,1,7,15,1.0,2,2,1,0,0,1
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,4,3,3,3,2,3,2,4,0,4,4,no,True,0,3,24,1.0,2,2,1,1,0,0
+Hostel,more than 12 months,"₹8,000–12,000",bangalore,Male,3,3,2,3,1,2,2,3,0,3,7,no,True,0,2,19,1.0,1,2,0,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,1,3,2,3,3,4,4,0,1,4,,True,1,38,22,1.0,1,2,2,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,0,2,2,2,1,1,1,1,0,4,9,,True,0,28,10,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Blr ,Female,1,1,2,1,1,1,1,1,0,5,8,,True,0,20,9,1.0,2,2,1,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,1,4,3,4,2,0,0,0,3,6,,True,0,6,18,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,2,1,1,3,0,1,1,,True,1,21,11,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Blr ,Female,1,1,3,1,2,1,2,1,0,4,7,,True,0,20,12,1.0,2,2,1,0,1,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,3,2,4,2,0,2,0,2,4,not good,True,1,9,19,1.0,2,2,0,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,0,1,0,1,2,1,2,1,0,2,2,,True,1,19,8,1.0,1,2,1,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,1,2,1,1,3,0,2,5,,True,1,18,13,1.0,2,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,0,1,0,2,4,4,4,0,3,3,,True,0,25,15,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,0,1,0,2,4,4,4,1,3,3,,True,0,25,15,1.0,1,2,1,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,4,3,3,4,2,3,2,3,0,4,4,no,True,0,3,24,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,2,1,1,2,0,2,5,,True,1,18,13,1.0,2,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,0,2,2,1,1,2,0,1,1,,True,1,21,9,1.0,1,2,0,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,2,4,4,0,1,4,,True,1,38,22,1.0,1,2,2,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,3,0,2,2,,True,1,25,16,1.0,1,2,1,0,1,0
+Hostel,more than 12 months,">₹18,000",Banagalore,Female,1,1,1,1,1,1,0,1,0,4,8,,True,0,8,7,1.0,1,2,1,0,1,0
+PG,more than 12 months,"₹5,000–8,000",Bangalore,Male,2,2,4,2,3,2,2,2,0,3,6,,True,0,4,19,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Hostel,3-6 months,">₹18,000",Bangalore,Male,0,0,2,1,0,0,0,0,0,5,8,,True,0,1,3,1.0,1,2,0,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,3,2,2,3,2,2,0,2,4,"Food , wifi all bad ",True,1,24,20,1.0,1,2,0,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,2,4,3,2,3,2,1,2,0,2,4,"Food , wifi all bad ",True,1,24,19,1.0,1,2,0,0,0,1
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,2,0,1,2,0,2,5,,True,1,18,12,1.0,2,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,1,4,4,4,4,0,1,1,,True,1,25,19,1.0,1,2,1,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,3,1,1,2,1,2,1,0,1,1,,True,1,19,12,1.0,1,2,1,1,0,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,2,1,2,1,2,0,3,4,,True,0,22,14,1.0,2,2,1,1,0,0
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,1,0,4,4,1,2,0,0,0,5,10,,True,0,40,12,1.0,1,2,2,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,2,2,0,1,0,2,5,,True,1,18,12,1.0,2,2,1,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Chennai,Male,1,1,2,0,2,2,0,0,0,3,6,,True,0,41,8,1.0,1,2,0,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,0,2,0,2,4,not good,True,1,9,20,1.0,2,2,0,0,1,0
+PG,more than 12 months,"₹5,000–8,000",Bangalore,Male,2,2,4,1,2,2,2,2,0,3,6,,True,0,4,17,1.0,1,2,0,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,3,1,4,2,0,0,0,5,8,,True,0,6,14,1.0,1,2,1,0,1,0
+Hostel,3-6 months,">₹18,000",Bangalore,Male,0,0,2,1,0,0,0,1,0,5,8,,True,0,1,4,1.0,1,2,0,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,3,2,0,1,0,4,7,,True,0,6,16,1.0,1,2,1,0,1,0
+Hostel,6-12 months,"₹12,000–18,000",Bangalore ,Male,3,3,3,1,0,1,1,1,0,4,6,,True,0,27,13,1.0,2,2,0,0,1,0
+PG,more than 12 months,"₹5,000–8,000",Bangalore,Male,2,2,4,2,2,2,3,3,0,2,5,,True,1,4,20,1.0,1,2,0,0,0,1
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,2,0,4,8,,True,0,14,10,1.0,1,2,0,0,0,1
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,4,4,4,0,1,4,,True,1,38,24,1.0,1,2,2,0,1,0
+Hostel,3-6 months,">₹18,000",Bangalore,Male,0,0,2,1,0,0,0,0,0,5,8,,True,0,1,3,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,2,1,3,1,1,1,1,0,4,3,,True,0,36,12,1.0,2,2,0,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,3,3,4,1,0,1,1,1,1,2,2,,True,1,11,14,1.0,1,2,1,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,1,1,1,0,2,5,,True,1,7,15,1.0,2,2,1,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,2,2,2,1,1,0,0,4,9,,True,0,28,10,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,1,1,0,0,3,4,4,4,0,2,2,,True,1,25,17,1.0,1,2,1,0,1,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,2,3,3,4,4,0,1,4,,True,1,38,23,1.0,1,2,2,0,1,0
+Co-living,more than 12 months,">₹18,000",Mysore ,Female,1,1,1,1,0,1,1,1,0,4,10,,True,0,30,7,1.0,1,2,1,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,3,2,2,2,2,1,1,1,0,4,9,,True,0,35,14,1.0,2,2,0,0,1,0
+PG,3-6 months,"₹12,000–18,000",Bangalore,Female,4,3,4,1,1,1,1,1,0,1,1,,True,1,11,16,1.0,1,2,1,0,0,1
+Hostel,6-12 months,">₹18,000",Bangalore ,Male,4,2,4,2,4,2,1,2,0,2,4,not good,True,1,9,21,1.0,2,2,0,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",Mysore ,Female,1,0,2,2,1,2,1,1,0,3,3,,True,0,31,10,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Chennai ,Male,2,2,2,2,2,2,1,0,1,4,9,,True,0,35,13,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"₹5,000–8,000",Bangalore ,Male,0,3,2,4,4,4,3,3,0,5,2,,True,0,43,23,1.0,2,2,0,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,3,3,1,1,3,0,1,4,,True,1,18,16,1.0,2,2,1,0,1,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,3,1,2,3,2,1,1,2,0,1,4,,True,1,18,15,1.0,2,2,1,0,1,0
+PG,more than 12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,0,0,1,0,0,0,4,6,,True,0,33,7,1.0,1,2,1,0,0,1
+Hostel,3 months,"₹5,000–8,000",Coimbatore ,Female,2,2,2,0,1,1,0,0,1,4,7,,True,0,15,8,1.0,1,2,1,0,1,0
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,2,2,4,4,3,3,0,1,1,,True,1,39,20,1.0,2,2,1,1,0,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,2,3,1,2,3,4,4,0,2,5,,True,1,38,21,1.0,1,2,2,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,2,3,1,1,2,1,2,1,0,1,0,,True,1,19,13,1.0,1,2,1,1,0,0
+Co-living,6-12 months,"₹12,000–18,000",Mysore ,Female,1,1,2,2,1,2,1,1,0,3,3,,True,0,31,11,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹12,000–18,000",Mysore ,Female,2,2,2,1,1,2,1,0,0,4,8,,True,0,32,11,1.0,2,2,1,0,1,0
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,1,1,1,0,2,5,,True,1,7,15,1.0,2,2,1,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,4,3,3,0,1,1,,True,1,39,19,1.0,2,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,2,1,3,2,1,1,2,0,1,0,,True,1,21,12,1.0,1,2,0,0,1,0
+Hostel,6-12 months,"<₹5,000",Bangalore ,Male,2,2,0,1,1,1,2,1,0,5,4,,True,0,36,10,1.0,2,2,0,0,1,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,0,2,0,0,2,0,4,8,,True,0,14,10,1.0,1,2,0,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,3,3,3,1,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+Hostel,6-12 months,"₹8,000–12,000",Mysore ,Female,2,1,2,2,2,1,2,3,0,1,4,,True,1,18,15,1.0,2,2,1,0,1,0
+PG,6-12 months,"₹8,000–12,000",Bangalore ,Male,2,1,4,0,2,3,0,2,1,3,9,,True,0,0,14,1.0,2,2,0,0,0,1
+Co-living,6-12 months,">₹18,000",Bangalore ,Female,1,1,1,2,4,3,3,3,0,1,1,,True,1,39,18,1.0,2,2,1,1,0,0
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,2,0,0,0,4,7,,True,0,6,16,1.0,1,2,1,0,1,0
+PG,more than 12 months,"₹8,000–12,000",Bangalore ,Male,2,0,4,1,2,0,0,2,0,4,8,,True,0,14,11,1.0,1,2,0,0,0,1
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,2,0,4,4,1,1,0,0,0,5,10,,True,0,40,12,1.0,1,2,2,0,1,0
+Hostel,3-6 months,"₹12,000–18,000",Bangalore ,Prefer not to say,1,0,3,4,1,1,0,1,0,5,10,,True,0,40,11,1.0,1,2,2,0,1,0
+PG,3 months,"₹5,000–8,000",Bangalore ,Male,3,3,4,2,2,2,2,2,0,2,4,"Food , wifi all bad ",True,1,24,20,1.0,1,2,0,0,0,1
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,1,0,3,3,4,3,0,3,3,,True,0,25,15,1.0,1,2,1,0,1,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,1,1,2,1,2,1,0,1,1,,True,1,19,11,1.0,1,2,1,1,0,0
+Hostel,3 months,"₹8,000–12,000",Kolkata ,Male,2,1,2,2,1,1,0,1,0,4,3,,True,0,12,10,1.0,1,2,0,0,1,0
+Hostel,3 months,"₹5,000–8,000",Coimbatore ,Female,2,2,2,0,2,1,0,1,0,4,7,,True,0,15,10,1.0,1,2,1,0,1,0
+PG,6-12 months,"₹8,000–12,000",Mysore,Female,2,2,2,2,1,2,1,2,0,5,9,,True,0,26,14,1.0,2,2,1,0,0,1
+Co-living,6-12 months,"₹12,000–18,000",Mysore ,Female,1,0,3,1,1,2,1,1,0,3,3,,True,0,31,10,1.0,2,2,1,1,0,0
+Co-living,3 months,"₹5,000–8,000",Vijayawada ,Male,3,2,4,1,2,2,0,0,0,3,5,,True,0,34,14,1.0,1,2,0,1,0,0
+Co-living,3 months,"₹5,000–8,000",Vijayawada ,Male,2,2,4,1,2,2,0,0,0,3,5,,True,0,34,13,1.0,1,2,0,1,0,0
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,2,0,0,0,4,7,,True,0,6,16,1.0,1,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Male,0,1,1,2,1,1,1,2,1,1,1,,True,1,21,9,1.0,1,2,0,0,1,0
+Co-living,6-12 months,"₹12,000–18,000",chennai,Female,4,3,2,3,2,3,2,3,0,4,4,no,True,0,3,22,1.0,2,2,1,1,0,0
+Co-living,6-12 months,"₹12,000–18,000",Bangalore ,Female,2,2,2,2,1,2,2,1,0,3,4,,True,0,22,14,1.0,2,2,1,1,0,0
+Co-living,3-6 months,"₹8,000–12,000",Bangalore ,Female,1,2,0,1,2,1,2,1,0,1,1,,True,1,19,10,1.0,1,2,1,1,0,0
+Hostel,3-6 months,"<₹5,000",Bangalore ,Prefer not to say,2,1,3,2,4,3,4,4,0,1,4,,True,1,38,23,1.0,1,2,2,0,1,0
+PG,6-12 months,"₹12,000–18,000",Chennai,Female,2,2,2,2,2,2,0,1,0,3,6,,True,0,16,13,1.0,2,2,1,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,2,2,3,2,3,1,1,1,1,2,5,,True,1,7,15,1.0,2,2,1,0,0,1
+PG,6-12 months,"₹12,000–18,000",Hyderabad,Female,3,2,3,1,3,1,0,1,0,2,5,,True,1,7,14,1.0,2,2,1,0,0,1
+Hostel,6-12 months,"₹12,000–18,000",Mysore ,Female,3,2,3,1,1,1,1,1,0,4,8,,True,0,32,13,1.0,2,2,1,0,1,0
+Hostel,3 months,"₹8,000–12,000",Bangalore ,Female,0,1,2,0,2,4,4,3,0,2,2,,True,1,25,16,1.0,1,2,1,0,1,0
+Hostel,more than 12 months,">₹18,000",Coimbatore,Female,4,0,4,2,4,2,0,0,1,4,7,,True,0,6,16,1.0,1,2,1,0,1,0
+PG,3 months,"₹12,000–18,000",Coimbatore ,Female,4,1,4,2,3,1,1,1,0,3,6,okay except food ,True,0,5,17,1.0,1,2,1,0,0,1
+Hostel,more than 12 months,">₹18,000",Coimbatore ,Female,1,1,2,2,1,1,1,1,0,4,9,,True,0,28,10,1.0,1,2,1,0,1,0
